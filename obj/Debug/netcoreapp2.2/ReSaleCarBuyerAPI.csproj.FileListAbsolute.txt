@@ -1,0 +1,14 @@
+D:\ReSaleCarManagementAPI\ReSaleCarBuyerAPI\ReSaleCarBuyerAPI\bin\Debug\netcoreapp2.2\ReSaleCarBuyerAPI.deps.json
+D:\ReSaleCarManagementAPI\ReSaleCarBuyerAPI\ReSaleCarBuyerAPI\bin\Debug\netcoreapp2.2\ReSaleCarBuyerAPI.runtimeconfig.json
+D:\ReSaleCarManagementAPI\ReSaleCarBuyerAPI\ReSaleCarBuyerAPI\bin\Debug\netcoreapp2.2\ReSaleCarBuyerAPI.runtimeconfig.dev.json
+D:\ReSaleCarManagementAPI\ReSaleCarBuyerAPI\ReSaleCarBuyerAPI\bin\Debug\netcoreapp2.2\ReSaleCarBuyerAPI.dll
+D:\ReSaleCarManagementAPI\ReSaleCarBuyerAPI\ReSaleCarBuyerAPI\obj\Debug\netcoreapp2.2\ReSaleCarBuyerAPI.csproj.CoreCompileInputs.cache
+D:\ReSaleCarManagementAPI\ReSaleCarBuyerAPI\ReSaleCarBuyerAPI\obj\Debug\netcoreapp2.2\ReSaleCarBuyerAPI.RazorAssemblyInfo.cache
+D:\ReSaleCarManagementAPI\ReSaleCarBuyerAPI\ReSaleCarBuyerAPI\obj\Debug\netcoreapp2.2\ReSaleCarBuyerAPI.RazorAssemblyInfo.cs
+D:\ReSaleCarManagementAPI\ReSaleCarBuyerAPI\ReSaleCarBuyerAPI\obj\Debug\netcoreapp2.2\ReSaleCarBuyerAPI.AssemblyInfoInputs.cache
+D:\ReSaleCarManagementAPI\ReSaleCarBuyerAPI\ReSaleCarBuyerAPI\obj\Debug\netcoreapp2.2\ReSaleCarBuyerAPI.AssemblyInfo.cs
+D:\ReSaleCarManagementAPI\ReSaleCarBuyerAPI\ReSaleCarBuyerAPI\obj\Debug\netcoreapp2.2\ReSaleCarBuyerAPI.RazorTargetAssemblyInfo.cache
+D:\ReSaleCarManagementAPI\ReSaleCarBuyerAPI\ReSaleCarBuyerAPI\bin\Debug\netcoreapp2.2\ReSaleCarBuyerAPI.pdb
+D:\ReSaleCarManagementAPI\ReSaleCarBuyerAPI\ReSaleCarBuyerAPI\obj\Debug\netcoreapp2.2\ReSaleCarBuyerAPI.dll
+D:\ReSaleCarManagementAPI\ReSaleCarBuyerAPI\ReSaleCarBuyerAPI\obj\Debug\netcoreapp2.2\ReSaleCarBuyerAPI.pdb
+D:\ReSaleCarManagementAPI\ReSaleCarBuyerAPI\ReSaleCarBuyerAPI\obj\Debug\netcoreapp2.2\ReSaleCarBuyerAPI.csprojAssemblyReference.cache
